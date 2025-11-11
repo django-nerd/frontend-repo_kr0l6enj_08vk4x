@@ -235,7 +235,7 @@ function OrderForm() {
         </div>
       </div>
     </section>
-  )}
+  )
 }
 
 function TopRank({ compact=false }) {
